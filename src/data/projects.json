@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Quiz Application",
+    "imageSrc": "projects/project.png",
+    "description": "Interactive quizzes to challenge your knowledge.",
+    "skills": ["Java", "Spring Boot", "Microservices","RESTful APIs","Docker ","AWS ","Eureka Server",
+  "PostgreSQL","CSS","Java Script","HTML","React.js","Git"],
+    "demo": "https://drive.google.com/file/d/1sb0XpxsJ3c8MmUKXmpnDS95nhhvszLWY/view?usp=drive_link",
+    "source": "https://github.com/sethuakhil5589?tab=repositories"
+  },
+  {
+    "title": "Student Management Application",
+    "imageSrc": "projects/project.png",
+    "description": "Efficiently manage student records and activities.",
+    "skills": ["Java", "Spring Boot","RESTful APIs","AOP ","JPA ","Hibernate",
+  "MySQL","CSS","Java Script","HTML","React.js","Git","SDLC"],
+    "demo": "https://drive.google.com/file/d/1BpQidCZw-5bAJnTlqeALQzjDgGEcNGZF/view?usp=drive_link",
+    "source": "https://github.com/sethuakhil5589/Student-Management-Systems-Backend"
+  },
+  {
+    "title": "CRM Application",
+    "imageSrc": "projects/project.png",
+    "description": "Manage customer relationships seamlessly.",
+    "skills": ["Java", "Spring Boot","RESTful APIs","CRUD ","JPA ","Hibernate",
+  "MySQL","CSS","Java Script","HTML","React.js","Git","SDLC","API Integration"],
+    "demo": "https://drive.google.com/file/d/19WBom-wwSMVPcyacy1fmQWjldgQLXJxL/view?usp=drive_link",
+    "source": "https://github.com/sethuakhil5589/CRM-Application/tree/main/CRM-Application"
+  }
+]

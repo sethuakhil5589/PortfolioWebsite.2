@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Full Stack developer",
+    "organisation": "Concentrix",
+    "startDate": "Feb, 2021",
+    "endDate": "Jan, 2023",
+    "experiences": ["Collaborated on an advanced group video call feature using Java and Spring Boot, improving communication and coordination by 40% for hospital staff.",
+     "Developed modules using Spring Framework for dependency injection and framework integration.",
+    "Guided coding for the DAO layer using Hibernate to access the Oracle database.","Extensively used Hibernate for data access and manipulation.",
+  "Developed Java classes to simulate RESTful web services and application configurations.","Analyzed Hibernate for backend development with Spring ORM and RESTful services for the frontend team."],
+    "imageSrc": "history/concentrix (1).png"
+  }
+  
+]

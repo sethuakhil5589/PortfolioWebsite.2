@@ -1,0 +1,99 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "SQL Server",
+    "imageSrc": "skills/sql-server.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Spring",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "skills/postgre.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Oracle",
+    "imageSrc": "skills/oracle.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Jenkins",
+    "imageSrc": "skills/jenkins.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "Apache Kafka",
+    "imageSrc": "skills/apache.png"
+  },
+  {
+    "title": "Eclipse",
+    "imageSrc": "skills/eclipse.png"
+  },
+  {
+    "title": "IntelliJ IDEA",
+    "imageSrc": "skills/intel j.jpg"
+  },
+
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Visual Studio",
+    "imageSrc": "skills/visual-studio.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]
